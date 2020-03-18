@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "next/Link";
 const Navbar =() => (<div>
     <nav>
     <Link href="/about"><button>About</button></Link>
