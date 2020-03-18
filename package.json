@@ -1,0 +1,31 @@
+{
+  "name": "reactportfolio",
+  "version": "1.0.0",
+  "description": "React next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"next",
+    "build":"next build",
+    "start":"next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanganu/reactportfolio.git"
+  },
+  "keywords": [
+    "react",
+    "next"
+  ],
+  "author": "Sangeetha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sanganu/reactportfolio/issues"
+  },
+  "homepage": "https://github.com/Sanganu/reactportfolio#readme",
+  "dependencies": {
+    "next": "^9.3.1",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
