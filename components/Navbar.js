@@ -3,6 +3,7 @@ const Navbar =() => (<div>
     <nav>
     <Link href="/about"><button>About</button></Link>
     <Link href="/"><button>Home Page</button></Link>
+    <Link href="/post"><button>Post</button></Link>
     </nav>
     <style jsx>{`
         nav {
