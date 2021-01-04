@@ -1,11 +1,10 @@
 import React from "react";
+import "./landing.css";
 
 function Landing() {
 
-    return (<div className="container landing">
-             <img src="" alt="sang" />
-            <p>random text</p>
-            <p>radom text</p>
+    return (<div className="jumbotron landing">
+             
     </div>)
 }
 
