@@ -2,7 +2,7 @@ import React from "react";
 
 function Header(){
     return(<header>
-        <h1>Sangeetha Kaliaperumal</h1>
+        <h1>My Profile</h1>
         <nav>
             <ul>
                 <li>About</li>
