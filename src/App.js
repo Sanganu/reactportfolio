@@ -5,16 +5,17 @@ import Work from "./pages/Work";
 import Connect from "./pages/Connect";
 import Header from './components/Header';
 import Footer from "./components/Footer";
-import Navigation from "./components/Navigation";
+
 
 
 function App() {
   return (
     <div className="App">
      <BrowserRouter>
-       <Navigation/>
+       <Header/>
          <Switch>
             <Route exact path="/">{Landing}</Route>
+            {/* <Route exact path="/intro">{Intro}</Route> */}
             <Route exact path="/work">{Work}</Route>
             <Route exact path="/connect">{Connect}</Route>
           </Switch>

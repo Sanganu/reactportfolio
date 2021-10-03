@@ -7,7 +7,7 @@ function Navigation() {
             <Navbar.Brand href="#home">My Portfolio</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
-                <Nav className="mr-auto">
+                <Nav className="ml-auto">
                     <Nav.Link href="#home">Projects</Nav.Link>
                     <Nav.Link href="#link">Resume</Nav.Link>
                     <NavDropdown title="Public Profile" id="basic-nav-dropdown">
