@@ -1,9 +1,10 @@
 import React from "react";
 import {Link} from "react-router-dom";
+import "./header.css";
 
 function Header() {
-    return (<header>
-        <h1>Developer's name</h1>
+    return (<header className="text-center">
+        <h1>Sangeetha.K</h1>
         <nav>
             <ul className="nav justify-content-center">
                 <li className="nav-item">
