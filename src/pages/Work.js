@@ -12,7 +12,7 @@ const Work = () => {
     // },[])
    
     return(<main>
-        <h3 className="text-center">Fun Apps</h3>
+        <h3 className="text-center page-header">Fun Apps</h3>
         <article  className="container m-auto d-flex flex-wrap">
         {projectData.map((app,key) => (
         <ProjectCard details={app} key={key} />))}

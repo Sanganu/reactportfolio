@@ -5,6 +5,7 @@ import Work from "./pages/Work";
 import Connect from "./pages/Connect";
 import Header from './components/Header';
 import Footer from "./components/Footer";
+import Resume from "./pages/Resume"
 // import Navigation from "./components/Navigation";
 
 
@@ -19,6 +20,7 @@ function App() {
             {/* <Route exact path="/intro">{Intro}</Route> */}
             <Route exact path="/work">{Work}</Route>
             <Route exact path="/connect">{Connect}</Route>
+            <Route exact path="/resume">{Resume}</Route>
           </Switch>
          <Footer />
      </BrowserRouter>
