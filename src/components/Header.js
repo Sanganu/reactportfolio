@@ -14,10 +14,10 @@ function Header() {
                     <Link className="nav-link" to="/work">Portfolio</Link>
                 </li>
                 <li className="nav-item">
-                    <Link className="nav-link" to="/portfolio">Connect</Link>
+                    <Link className="nav-link" to="/connect">Connect</Link>
                 </li>
                 <li className="nav-item">
-                    <Link className="nav-link" to="/contact" >Resume</Link>
+                    <Link className="nav-link" to="/resume" >Resume</Link>
                 </li>
             </ul>
         </nav>

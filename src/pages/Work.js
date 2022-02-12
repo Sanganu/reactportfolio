@@ -11,9 +11,12 @@ const Work = () => {
     //     console.log(projectData)
     // },[])
    
-    return(<main className="container m-auto d-flex flex-wrap">
+    return(<main>
+        <h3 className="text-center">Fun Apps</h3>
+        <article  className="container m-auto d-flex flex-wrap">
         {projectData.map((app,key) => (
         <ProjectCard details={app} key={key} />))}
+        </article>
         </main>)
 }
 
