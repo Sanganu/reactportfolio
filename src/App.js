@@ -5,7 +5,8 @@ import Work from "./pages/Work";
 import Connect from "./pages/Connect";
 import Header from './components/Header';
 import Footer from "./components/Footer";
-import Resume from "./pages/Resume"
+import Resume from "./pages/Resume";
+import aboutme from "./about.json";
 // import Navigation from "./components/Navigation";
 
 
@@ -16,7 +17,7 @@ function App() {
      {/* <Navigation /> */}
        <Header/>
          <Switch>
-            <Route exact path="/">{Landing}</Route>
+  <Route exact path="/" render={(aboutme)  =><Landing {...aboutme}/>} />
             {/* <Route exact path="/intro">{Intro}</Route> */}
             <Route exact path="/work">{Work}</Route>
             <Route exact path="/connect">{Connect}</Route>
