@@ -24,53 +24,6 @@
         
     },
     {
-        "app":"Day planner",
-        "repo":"",
-        "screenshot":"",
-        "description":"",
-        "live":""
-        
-    },
-    {
-        "app":"",
-        "repo":"",
-        "screenshot":"",
-        "description":"",
-        "live":""
-        
-    },
-    {
-        "app":"",
-        "repo":"",
-        "screenshot":"",
-        "description":"",
-        "live":""
-        
-    },
-    {
-        "app":"",
-        "repo":"",
-        "screenshot":"",
-        "description":"",
-        "live":""
-        
-    },
-    {
-        "app":"",
-        "repo":"",
-        "screenshot":"",
-        "description":"",
-        "live":""
-        
-    }, {
-        "app":"",
-        "repo":"",
-        "screenshot":"",
-        "description":"",
-        "live":""
-        
-    },
-    {
         "app":"Clicky Game using REACT",
         "repo":"https://repo.com/Sanganu/reactapp",
         "screenshot":"/images/memory.PNG",
@@ -86,22 +39,7 @@
         "live":"https://sanganu.repo.io/tutoringHTMLCSS/"
         
     },
-    {
-        "app":"CLI app using Nodejs - Game",
-        "repo":"",
-        "screenshot":"",
-        "description":"",
-        "live":""
-        
-    },
-    {
-        "app":"CLI App - Liribot",
-        "repo":"",
-        "screenshot":"",
-        "description":"",
-        "live":""
-        
-    },
+    
     {
         "app":"README Generator",
         "repo":"",
@@ -116,7 +54,6 @@
         "screenshot":"/images/reactemp.PNG",
         "description":"REACT, using Datatables and random API",
         "live":"https://sanganu.repo.io/reactempaxios/#home"
-        
     }
 
 ]
