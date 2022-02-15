@@ -1,16 +1,9 @@
 [
-    {
-        "app":"Password Generator",
-        "repo":"",
-        "live":"",
-        "description":"",
-        "screenshot":"/images/screenshotshot1.PNG"
-        
-    },
+    
     {
         "app":"App name - Project1",
         "repo":"https://repo.com/Sanganu",
-        "screenshotshot":"/images/gifs.PNG",
+        "screenshot":"/images/giphy.PNG",
         "description":"Description about the project",
         "live":"https://sanganu.repo.io/gifsapp/"
         
@@ -18,7 +11,7 @@
     {
         "app":"Weather API",
         "repo":"https://repo.com/Sanganu/weatherAPI",
-        "screenshot":"/images/weatherapi.PNG",
+        "screenshot":"/images/meditation.PNG",
         "description":"API, JQuery, DOM Manipulation.",
         "live":"https://sanganu.repo.io/weatherAPI/"
         
@@ -27,14 +20,14 @@
         "app":"Clicky Game using REACT",
         "repo":"https://repo.com/Sanganu/reactapp",
         "screenshot":"/images/memory.PNG",
-        "description":"",
+        "description":"Front end app",
         "live":"https://sanganu.repo.io/reactapp/"
         
     },
     {
         "app":"Meditation & Chanting",
         "repo":"https://repo.com/Sanganu/tutoringHTMLCSS",
-        "screenshot":"/images/meditation.PNG",
+        "screenshot":"/images/screenshot3.PNG",
         "description":"Javascript app, four maintaining counts, timer functionality.",
         "live":"https://sanganu.repo.io/tutoringHTMLCSS/"
         
@@ -43,15 +36,15 @@
     {
         "app":"README Generator",
         "repo":"",
-        "screenshot":"",
-        "description":"",
+        "screenshot":"/images/screenshot2.PNG",
+        "description":"NodeJSApp",
         "live":""
         
     },
     {
         "app":"Employee Directory",
         "repo":"https://repo.com/Sanganu/reactempaxios",
-        "screenshot":"/images/reactemp.PNG",
+        "screenshot":"/images/screenshot1.PNG",
         "description":"REACT, using Datatables and random API",
         "live":"https://sanganu.repo.io/reactempaxios/#home"  
   }
