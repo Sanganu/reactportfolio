@@ -15,7 +15,10 @@
 #### Acknowledgements:
 1. Create-react-app
 2. react-bootstrap
-3.
+3. react-router-dom
+4. Google forms
+5. Google Docs
+6. gh-pages for publishing.
 
 #### Check the site
 
