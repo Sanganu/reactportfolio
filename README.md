@@ -1,5 +1,8 @@
 #  React Portfolio
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Coded By: Sangeetha.K
+##### Desgination: Senior Tutor, 2U
 
 ### How to Use this App:
 1. Clone the Repo.
@@ -20,11 +23,10 @@
 5. Google Docs
 6. gh-pages for publishing.
 
-#### Check the site
-[Live](https://sanganu.github.io)
+
 
 #### Screenshots:
-! (Screenshot)[https://github.com/Sanganu/reactportfolio/blob/master/public/images/ScreenshotImage.PNG]
+! [Screenshot](https://github.com/Sanganu/reactportfolio/blob/master/public/images/ScreenshotImage.PNG)
 
 
 
