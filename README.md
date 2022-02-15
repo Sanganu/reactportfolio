@@ -22,7 +22,9 @@
 
 #### Check the site
 [Live](https://sanganu.github.io/work)
+
 #### Screenshots:
+!(Screenshot)[https://github.com/Sanganu/reactportfolio/blob/master/public/images/ScreenshotImage.PNG]
 
 
 
