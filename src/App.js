@@ -15,7 +15,7 @@ function App() {
       <BrowserRouter>
         <Header />
         <Switch>
-          <Route exact path={["/","/aboutme"] }>{Landing}</Route>
+          <Route exact path="/" component={Landing}/>
           <Route exact path="/work">{Work}</Route>
           <Route exact path="/connect">{Connect}</Route>
           <Route exact path="/resume">{Resume}</Route>

@@ -21,10 +21,10 @@
 6. gh-pages for publishing.
 
 #### Check the site
-[Live](https://sanganu.github.io/work)
+[Live](https://sanganu.github.io)
 
 #### Screenshots:
-!(Screenshot)[https://github.com/Sanganu/reactportfolio/blob/master/public/images/ScreenshotImage.PNG]
+! (Screenshot)[https://github.com/Sanganu/reactportfolio/blob/master/public/images/ScreenshotImage.PNG]
 
 
 
