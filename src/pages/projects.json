@@ -34,10 +34,10 @@
     },
     
     {
-        "app":"README Generator",
-        "repo":"",
+        "app":"Generate Markdown & HTML File",
+        "repo":"https://github.com/Sanganu/genhtmlpdf",
         "screenshot":"/images/screenshot2.PNG",
-        "description":"NodeJSApp",
+        "description":"Generate Markdown and HTML from Nodejs app",
         "live":""
         
     },

@@ -6,13 +6,13 @@ import Connect from "./pages/Connect";
 import Header from './components/Header';
 import Footer from "./components/Footer";
 import Resume from "./pages/Resume";
-
+{}
 
 
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="reactportfolio">
         <Header />
         <Switch>
           <Route exact path={["/","/reactportfolio"]} component={Landing}/>
